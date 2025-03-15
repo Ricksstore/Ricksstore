@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ricksaistudio
-- 👀 I’m interested in AI-Powerd tools
+- 👋 Hi, I’m Rick @Ricksaistudio
+- 👀 I’m interested in AI-Powered tools
 - 🌱 I’m currently learning how to code applications 
 - 💞️ I’m looking to collaborate on integration 
 - 📫 How to reach me Rchurchnextstep@gmail.com
